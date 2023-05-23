@@ -1,0 +1,117 @@
+{
+  "docs": [
+    {
+      "id": 591929,
+      "name": "Гравити Фолз",
+      "alternativeName": "Gravity Falls",
+      "enName": "Gravity Falls",
+      "names": [
+        "Гравити Фолз",
+        "Gravity Falls",
+        "Willkommen in Gravity Falls",
+        "Тайните на Гравити Фолс",
+        "Městečko záhad",
+        "Willkommen in Gravity Falls",
+        "Souvenirs de Gravity Falls",
+        "Ο Μυστικός Κόσμος του Gravity Falls",
+        "Rejtélyek városkája",
+        "גרוויטי פולס",
+        "怪奇ゾーングラビティーフォールズ",
+        "디퍼와 메이블의 미스터리 모험",
+        "그래비티 폴즈",
+        "Wodogrzmoty Małe",
+        "Ciudăţeni",
+        "Esrarengiz Kasaba",
+        "神秘小鎮大冒險",
+        "Таємниці Гравіті Фолз",
+        "Gravity Falls: Shorts"
+      ],
+      "type": "animated-series",
+      "year": 2012,
+      "description": "История рассказывает о приключениях близнецов, брата и сестры Диппера и Мэйбл Пайнс, чьи летние планы отправляются в чулан, когда родители оправляют их к дальнему родственнику в тихий городок Гравити Фолз. Но так ли прост этот город, родственник и жители, и какие тайны ждут своих первооткрывателей?",
+      "shortDescription": "Близнецы проводят каникулы у странного прадядюшки. Тайны и аномалии в захватывающем мультсериале Алекса Хирша",
+      "logo": "https://avatars.mds.yandex.net/get-ott/1531675/2a00000170cd8dc5cbb1908b56731c972792/orig",
+      "poster": "https://st.kp.yandex.net/images/film_big/591929.jpg",
+      "backdrop": "https://avatars.mds.yandex.net/get-ott/1672343/2a00000170cdf1b6ca23676008b2ab962969/orig",
+      "rating": 8.962,
+      "votes": 512959,
+      "movieLength": 22,
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "детектив",
+        "приключения",
+        "семейный",
+        "фантастика"
+      ],
+      "countries": [
+        "США"
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 885584,
+      "name": "Гравити Фолз: Короткие истории",
+      "alternativeName": "Gravity Falls Shorts",
+      "enName": "",
+      "names": [
+        "Гравити Фолз: Короткие истории",
+        "Gravity Falls Shorts"
+      ],
+      "type": "animated-series",
+      "year": 2013,
+      "description": "",
+      "shortDescription": "",
+      "logo": "None",
+      "poster": "https://st.kp.yandex.net/images/film_big/885584.jpg",
+      "backdrop": "None",
+      "rating": 8.174,
+      "votes": 11437,
+      "movieLength": 2,
+      "genres": [
+        "мультфильм",
+        "короткометражка",
+        "фэнтези",
+        "комедия",
+        "детектив",
+        "приключения",
+        "семейный"
+      ],
+      "countries": [
+        "США"
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 977618,
+      "name": "Гравити Фолз: Между сосен",
+      "alternativeName": "Gravity Falls: Between the Pines",
+      "enName": "",
+      "names": [
+        "Гравити Фолз: Между сосен",
+        "Gravity Falls: Between the Pines"
+      ],
+      "type": "cartoon",
+      "year": 2016,
+      "description": "",
+      "shortDescription": "",
+      "logo": "None",
+      "poster": "None",
+      "backdrop": "None",
+      "rating": 7.845,
+      "votes": 422,
+      "movieLength": 22,
+      "genres": [
+        "мультфильм"
+      ],
+      "countries": [
+        "США"
+      ],
+      "releaseYears": []
+    }
+  ],
+  "total": 3,
+  "limit": 10,
+  "page": 1,
+  "pages": 1
+}

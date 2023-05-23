@@ -1,0 +1,575 @@
+{
+  "status": "completed",
+  "externalId": {
+    "kpHD": "422d16b9efd9996a924a6f7562a1d813",
+    "imdb": "tt2758770",
+    "tmdb": 61923
+  },
+  "rating": {
+    "kp": 8.516,
+    "imdb": 7.9,
+    "filmCritics": 0,
+    "russianFilmCritics": 0,
+    "await": "None"
+  },
+  "votes": {
+    "kp": 167517,
+    "imdb": 16477,
+    "filmCritics": 0,
+    "russianFilmCritics": 1,
+    "await": 7
+  },
+  "backdrop": {
+    "url": "https://avatars.mds.yandex.net/get-ott/223007/2a00000171876d43e075f5a17c706c17435f/orig",
+    "previewUrl": "https://avatars.mds.yandex.net/get-ott/223007/2a00000171876d43e075f5a17c706c17435f/x1000"
+  },
+  "images": {
+    "framesCount": 26
+  },
+  "productionCompanies": [
+    {
+      "name": "Disney Television Animation",
+      "url": "https://www.themoviedb.org/t/p/original/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "previewUrl": "https://www.themoviedb.org/t/p/w500/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png"
+    }
+  ],
+  "spokenLanguages": [
+    {
+      "name": "English",
+      "nameEn": "English"
+    }
+  ],
+  "id": 818971,
+  "type": "animated-series",
+  "name": "Звёздная принцесса и силы зла",
+  "description": "История о девочке, живущей в ином измерении, по имени Стар Баттерфляй, которая получила в 14 лет волшебную палочку. Но после того, как Стар чуть ли не превратила свой родной город в прах, родители отправили её в другое измерение, которое называется Земля, чтобы жить с семьёй Диаз, которая состоит из добродушных родителей и подростка по имени Марко. Все одноклассники и друзья считают его тихоней, который остерегается даже обыкновенного падения. Марко считает это неправдой, и из-за такой репутации подросток жаждет приключений и опасностей.",
+  "distributors": {
+    "distributor": "None",
+    "distributorRelease": "None"
+  },
+  "premiere": {
+    "world": "2015-01-18T00:00:00.000Z",
+    "russia": "2016-09-05T00:00:00.000Z"
+  },
+  "slogan": "In 2015. Star Butterfly will come to Earth and change the lives of the Diaz family forever!",
+  "year": 2015,
+  "poster": {
+    "url": "https://st.kp.yandex.net/images/film_big/818971.jpg",
+    "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_818971.jpg"
+  },
+  "facts": [],
+  "genres": [
+    {
+      "name": "мультфильм"
+    },
+    {
+      "name": "фантастика"
+    },
+    {
+      "name": "фэнтези"
+    },
+    {
+      "name": "боевик"
+    },
+    {
+      "name": "драма"
+    },
+    {
+      "name": "комедия"
+    },
+    {
+      "name": "приключения"
+    },
+    {
+      "name": "семейный"
+    }
+  ],
+  "countries": [
+    {
+      "name": "США"
+    }
+  ],
+  "videos": {
+    "trailers": [
+      {
+        "url": "https://www.youtube.com/embed/0IMBO3Ayqx8",
+        "name": "Star Vs The Forces Of Evil-Watching Episodes Himdi Dub Link⬇️(As2anime)",
+        "site": "youtube",
+        "type": "TRAILER"
+      },
+      {
+        "url": "https://www.youtube.com/embed/7qkjUFB-NcA",
+        "name": "Star Vs The Forces of Evil Fan Trailer",
+        "site": "youtube",
+        "type": "TRAILER"
+      }
+    ],
+    "teasers": []
+  },
+  "seasonsInfo": [
+    {
+      "number": 1,
+      "episodesCount": 13
+    },
+    {
+      "number": 2,
+      "episodesCount": 22
+    },
+    {
+      "number": 3,
+      "episodesCount": 21
+    },
+    {
+      "number": 4,
+      "episodesCount": 21
+    }
+  ],
+  "persons": [
+    {
+      "id": 241537,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_241537.jpg",
+      "name": "Иден Шер",
+      "enName": "Eden Sher",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 225500,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_225500.jpg",
+      "name": "Адам МакАртур",
+      "enName": "Adam McArthur",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 44664,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_44664.jpg",
+      "name": "Грэй Гриффин",
+      "enName": "Grey Griffin",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 2512902,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2512902.jpg",
+      "name": "Дэрон Нефси",
+      "enName": "Daron Nefcy",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 10102,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_10102.jpg",
+      "name": "Алан Тьюдик",
+      "enName": "Alan Tudyk",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 1223959,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1223959.jpg",
+      "name": "Марк Гальярди",
+      "enName": "Mark Gagliardi",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 26869,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_26869.jpg",
+      "name": "Фред Таташиор",
+      "enName": "Fred Tatasciore",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 1991032,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1991032.jpg",
+      "name": "Доминик Бисигнано",
+      "enName": "Dominic Bisignano",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 42534,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_42534.jpg",
+      "name": "Джефф Беннетт",
+      "enName": "Jeff Bennett",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 1284680,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1284680.jpg",
+      "name": "Эбби Эллиотт",
+      "enName": "Abby Elliott",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 886728,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_886728.jpg",
+      "name": "Брайан Х. Ким",
+      "enName": "Brian H. Kim",
+      "profession": "композиторы",
+      "enProfession": "composer"
+    },
+    {
+      "id": 2761238,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2761238.jpg",
+      "name": "Кадзунори Ямаути",
+      "enName": "Kazunori Yamauchi",
+      "profession": "композиторы",
+      "enProfession": "composer"
+    },
+    {
+      "id": 4458881,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4458881.jpg",
+      "name": "None",
+      "enName": "Israel Sanchez",
+      "profession": "художники",
+      "enProfession": "designer"
+    },
+    {
+      "id": 3909363,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3909363.jpg",
+      "name": "Джош Парпан",
+      "enName": "Josh Parpan",
+      "profession": "художники",
+      "enProfession": "designer"
+    },
+    {
+      "id": 3917830,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3917830.jpg",
+      "name": "Джастин Парпан",
+      "enName": "Justin Parpan",
+      "profession": "художники",
+      "enProfession": "designer"
+    },
+    {
+      "id": 1118546,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1118546.jpg",
+      "name": "Тосихиро Нагоси",
+      "enName": "Toshihiro Nagoshi",
+      "profession": "художники",
+      "enProfession": "designer"
+    },
+    {
+      "id": 1991032,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1991032.jpg",
+      "name": "Доминик Бисигнано",
+      "enName": "Dominic Bisignano",
+      "profession": "режиссеры",
+      "enProfession": "director"
+    },
+    {
+      "id": 3007883,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3007883.jpg",
+      "name": "Аарон Хэммерсли",
+      "enName": "Aaron Hammersley",
+      "profession": "режиссеры",
+      "enProfession": "director"
+    },
+    {
+      "id": 1801243,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1801243.jpg",
+      "name": "Бретт Вэрон",
+      "enName": "Brett Varon",
+      "profession": "режиссеры",
+      "enProfession": "director"
+    },
+    {
+      "id": 4474643,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4474643.jpg",
+      "name": "Сабрина Котуно",
+      "enName": "Sabrina Cotugno",
+      "profession": "режиссеры",
+      "enProfession": "director"
+    },
+    {
+      "id": 3408319,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3408319.jpg",
+      "name": "None",
+      "enName": "Yoonah Yim",
+      "profession": "монтажеры",
+      "enProfession": "editor"
+    },
+    {
+      "id": 2009586,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2009586.jpg",
+      "name": "Тед Супа",
+      "enName": "Ted Supa",
+      "profession": "монтажеры",
+      "enProfession": "editor"
+    },
+    {
+      "id": 2698845,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2698845.jpg",
+      "name": "None",
+      "enName": "Nico Colaleo",
+      "profession": "монтажеры",
+      "enProfession": "editor"
+    },
+    {
+      "id": 2036487,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2036487.jpg",
+      "name": "Энтони Ф. Рокко",
+      "enName": "Anthony F. Rocco",
+      "profession": "монтажеры",
+      "enProfession": "editor"
+    },
+    {
+      "id": 2512902,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2512902.jpg",
+      "name": "Дэрон Нефси",
+      "enName": "Daron Nefcy",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 3007883,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3007883.jpg",
+      "name": "Аарон Хэммерсли",
+      "enName": "Aaron Hammersley",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 3065867,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3065867.jpg",
+      "name": "None",
+      "enName": "Britta Reitman",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 1991032,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1991032.jpg",
+      "name": "Доминик Бисигнано",
+      "enName": "Dominic Bisignano",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 1758684,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1758684.jpg",
+      "name": "Наталья Терешкова",
+      "enName": "None",
+      "profession": "актеры дубляжа",
+      "enProfession": "voice_actor"
+    },
+    {
+      "id": 1159776,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1159776.jpg",
+      "name": "Лариса Брохман",
+      "enName": "None",
+      "profession": "актеры дубляжа",
+      "enProfession": "voice_actor"
+    },
+    {
+      "id": 3023832,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3023832.jpg",
+      "name": "Иван Калинин",
+      "enName": "None",
+      "profession": "актеры дубляжа",
+      "enProfession": "voice_actor"
+    },
+    {
+      "id": 1653673,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1653673.jpg",
+      "name": "Марина Бакина",
+      "enName": "None",
+      "profession": "актеры дубляжа",
+      "enProfession": "voice_actor"
+    },
+    {
+      "id": 1781077,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1781077.jpg",
+      "name": "Диомид Виноградов",
+      "enName": "None",
+      "profession": "актеры дубляжа",
+      "enProfession": "voice_actor"
+    },
+    {
+      "id": 4555867,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4555867.jpg",
+      "name": "Амелия Лоренц",
+      "enName": "Amelia Lorenz",
+      "profession": "редакторы",
+      "enProfession": "writer"
+    },
+    {
+      "id": 4502775,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4502775.jpg",
+      "name": "Зак Маркус",
+      "enName": "Zach Marcus",
+      "profession": "редакторы",
+      "enProfession": "writer"
+    },
+    {
+      "id": 4467065,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4467065.jpg",
+      "name": "None",
+      "enName": "Tyler Chen",
+      "profession": "редакторы",
+      "enProfession": "writer"
+    },
+    {
+      "id": 1801243,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1801243.jpg",
+      "name": "Бретт Вэрон",
+      "enName": "Brett Varon",
+      "profession": "редакторы",
+      "enProfession": "writer"
+    }
+  ],
+  "lists": [],
+  "typeNumber": 5,
+  "alternativeName": "Star vs. the Forces of Evil",
+  "enName": "Star and the Forces of Evil",
+  "names": [
+    {
+      "name": "Звёздная принцесса и силы зла"
+    },
+    {
+      "name": "Star vs. the Forces of Evil"
+    },
+    {
+      "name": "Star vs. las fuerzas del mal",
+      "language": "AR",
+      "type": "latino"
+    },
+    {
+      "name": "Star contra las Fuerzas del Mal",
+      "language": "ES",
+      "type": "Castellano"
+    },
+    {
+      "name": "استار در مقابل نیروهای شیطانی",
+      "language": "IR",
+      "type": "Persian"
+    },
+    {
+      "name": "별나비",
+      "language": "KR",
+      "type": "None"
+    },
+    {
+      "name": "Звезда против Сил Зла",
+      "language": "RU",
+      "type": "None"
+    },
+    {
+      "name": "Стар против Сил Зла",
+      "language": "RU",
+      "type": "None"
+    },
+    {
+      "name": "Star and the Forces of Evil",
+      "language": "US",
+      "type": "Working Title"
+    }
+  ],
+  "ageRating": 12,
+  "budget": {},
+  "movieLength": "None",
+  "ratingMpaa": "None",
+  "updateDates": [],
+  "updatedAt": "2023-05-02T03:38:50.608Z",
+  "fees": {
+    "world": {},
+    "russia": {},
+    "usa": {}
+  },
+  "imagesInfo": {
+    "framesCount": 26
+  },
+  "sequelsAndPrequels": [],
+  "shortDescription": "В доме тихони Марко объявляется гиперактивная принцесса. Яркие приключения гостьи из параллельного измерения",
+  "technology": {
+    "hasImax": "False",
+    "has3D": "False"
+  },
+  "ticketsOnSale": "False",
+  "similarMovies": [
+    {
+      "id": 591929,
+      "name": "Гравити Фолз",
+      "enName": "None",
+      "alternativeName": "Gravity Falls",
+      "type": "animated-series",
+      "poster": {
+        "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/04954219-061a-4646-a7d6-054fdc34b053/orig",
+        "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/04954219-061a-4646-a7d6-054fdc34b053/x1000"
+      }
+    },
+    {
+      "id": 685246,
+      "name": "Рик и Морти",
+      "enName": "None",
+      "alternativeName": "Rick and Morty",
+      "type": "animated-series",
+      "poster": {
+        "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/03b417ff-d544-4f0b-a1fb-af09a2167a60/orig",
+        "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/03b417ff-d544-4f0b-a1fb-af09a2167a60/x1000"
+      }
+    },
+    {
+      "id": 790322,
+      "name": "С приветом по планетам",
+      "enName": "None",
+      "alternativeName": "Wander Over Yonder",
+      "type": "animated-series",
+      "poster": {
+        "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/4cebfe99-4ba0-4537-b72b-341601750d1e/orig",
+        "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/4cebfe99-4ba0-4537-b72b-341601750d1e/x1000"
+      }
+    },
+    {
+      "id": 602284,
+      "name": "Время приключений",
+      "enName": "None",
+      "alternativeName": "Adventure Time with Finn & Jake",
+      "type": "animated-series",
+      "poster": {
+        "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8997def3-7896-48c4-85db-b600eca3f983/orig",
+        "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8997def3-7896-48c4-85db-b600eca3f983/x1000"
+      }
+    },
+    {
+      "id": 790336,
+      "name": "Вселенная Стивена",
+      "enName": "None",
+      "alternativeName": "Steven Universe",
+      "type": "animated-series",
+      "poster": {
+        "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/799f069a-a5fa-4168-8224-334b2e567ac7/orig",
+        "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/799f069a-a5fa-4168-8224-334b2e567ac7/x1000"
+      }
+    },
+    {
+      "id": 1254041,
+      "name": "Дом совы",
+      "enName": "None",
+      "alternativeName": "The Owl House",
+      "type": "animated-series",
+      "poster": {
+        "url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7ab66400-f727-45bc-a81c-6066624da2d5/orig",
+        "previewUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7ab66400-f727-45bc-a81c-6066624da2d5/x1000"
+      }
+    }
+  ],
+  "logo": {
+    "url": "https://avatars.mds.yandex.net/get-ott/224348/2a00000173e6999c77d7a4d91cd10b2215f4/orig"
+  },
+  "watchability": {
+    "items": "None"
+  },
+  "releaseYears": [
+    {
+      "start": 2015,
+      "end": 2023
+    }
+  ],
+  "top10": "None",
+  "top250": 29
+}
